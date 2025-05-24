@@ -20,7 +20,7 @@ author: Alexander Hodgson
 ###############################################
 
 navbar-links:
-  Taxonomy: "Taxonomy"
+  taxonomy: "Taxonomy"
   Author's home: "https://deanattali.com"
 
 ################
