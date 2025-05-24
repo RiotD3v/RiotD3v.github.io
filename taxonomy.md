@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Taxonomy
-subtitle: test
+subtitle: This is a collection of resources related to taxonomy
 ---
 
 This is where I will put my taxonomy resources
