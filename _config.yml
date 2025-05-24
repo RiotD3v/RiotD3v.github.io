@@ -10,20 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: Riots Nature Resources
 
 # Your name to show in the footer
-author: Some Person
+author: Alexander Hodgson
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Taxonomy: "Taxonomy"
   Author's home: "https://deanattali.com"
 
 ################
